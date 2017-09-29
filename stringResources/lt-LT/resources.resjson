@@ -1,0 +1,12 @@
+{
+	"Visual_General": "Bendra",
+	"Visual_General_Colorbrewer": "Spalvų paletės",
+	"Visual_General_Buckets": "Segmentai",
+	"Visual_Category": "Kategorija",
+	"Visual_Y": "T",
+	"Visual_DataPointsLabels": "Duomenų žymos",
+	"Visual_Show": "Rodyti",
+	"Visual_LabelsFill": "Spalva",
+	"Visual_TextSize": "Teksto dydis",
+	"Visual_Force_Display": "Priverstinis rodymas"
+}
